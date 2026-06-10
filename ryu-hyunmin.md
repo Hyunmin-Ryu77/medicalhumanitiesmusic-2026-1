@@ -11,6 +11,8 @@ ICD: H90.3
 
 In the film *CODA*, music paradoxically functions as a medium to depict hearing impairment and Deaf culture through the aesthetics of silence. The film unfolds its narrative by dramatically contrasting the world of hearing people, who can hear, with the world of the Deaf, where sound is absent, through auditory direction. The pinnacle of this direction is revealed in the scene of Ruby's school choir performance. Amidst a series of beautiful harmonies, the film's sound suddenly switches to complete silence; this bold on-screen silence allows the audience to break away from the auditory-centric perspective of non-disabled people and fully experience the family's perspective (the absence of hearing) firsthand. Instead of listening to their daughter's singing, the deaf parents share an emotional bond that transcends the barriers of illness and disability through physical and visual cues, such as the moved expressions of the surrounding audience, swaying shoulders, and the vibrations in the concert hall. Furthermore, in the Berklee College of Music audition scene, Ruby therapeutically integrates two separated worlds by singing aloud while simultaneously using sign language with her hands. The scene of tactile communion—where she returns home after the audition and her father places his hand on her neck to "listen" to his daughter's singing with his whole body through the subtle vibrations of her vocal cords—offers significant insights from a medical humanities perspective. In this film, music transcends the biomedical definition of being merely an "auditory act heard through the ears," demonstrating that emotions can be conveyed through vibrations, sign language, physical presence, and touch. In other words, it proves that while hearing impairment may be viewed as a "physical defect to be treated" from a medical standpoint, from the perspective of human dignity, it can become the most powerful narrative language for connecting different worlds and expanding communication. If you would like to refer to other archives regarding the same work, please refer [here](kang-jeonwoong.md).
 
+# A song i want to play at a funeral
+
 
 
 # 코다
@@ -21,3 +23,6 @@ In the film *CODA*, music paradoxically functions as a medium to depict hearing 
 이 영화에서 음악은 단순히 '귀로 듣는 청각적 행위'라는 생의학적 정의를 넘어, 진동과 수어, 신체적 현존과 촉각을 통해 감정이 전달될 수 있음을 보여줍니다. 즉, 의학적 관점에서의 청각 장애는 '치료해야 할 신체적 결손'일지라도, 인간 존엄의 관점에서는 서로 다른 세계를 연결하고 소통을 확장하는 가장 강력한 내러티브 언어가 될 수 있음을 증명합니다. 같은 작품에 대한 다른  아카이브를 참조하고 싶으시면 [여기](kang-jeonwoong.md)를 참조해주세요
 
 <img src="./ryu-hyunmin.png" alt="Deaf culture, Medical Humanities Music 2026-1, RYU HYUN-MIN" style="width:100%;" />
+
+# 장례식장에서 재생 됐으면 하는 노래
+제가 장례식장에서 재생 됐으면 하는 곡은 [이찬혁의 '장례희망'](https://youtu.be/iIn_1_XDuBM?si=uGfpLfLFHQOg5W5X) 입니다.
